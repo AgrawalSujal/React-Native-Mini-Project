@@ -1,5 +1,26 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+### 📝 **Description**
+
+**Android Native CLI Stock Management App**
+
+This project is a **Stock Management App** built using **React Native CLI**. It allows users to:
+
+- ✅ Add, edit, and delete stock items.
+- 📊 Display all stocks with dynamic styling based on stock quantity (low stock highlighted in red).
+- 🛠️ Maintain a responsive and user-friendly interface.
+
+The app uses **React Native components** such as `FlatList`, `Pressable`, and `TextInput` for seamless interaction and smooth UI rendering.
+
+📸 **Screenshots included** to showcase the app's functionality and design.
+
+## 📸 Screenshot
+
+![AllStocks](./assets/screenshots/AllStocks.png)
+![CreateStocks](./assets/screenshots/CreateStocks.png)
+![CreateStocks](./assets/screenshots/CreateStocks2.png)
+![Few Stocks](./assets/screenshots/FewStocks.png)
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
