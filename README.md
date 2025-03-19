@@ -16,10 +16,10 @@ The app uses **React Native components** such as `FlatList`, `Pressable`, and `T
 
 ## 📸 Screenshot
 
-![AllStocks](./assets/screenshots/AllStocks.png)
-![CreateStocks](./assets/screenshots/CreateStocks.png)
-![CreateStocks](./assets/screenshots/CreateStocks2.png)
-![Few Stocks](./assets/screenshots/FewStocks.png)
+![AllStocks](./android/assets/screenshots/AllStocks.png)
+![CreateStocks](./android/assets/screenshots/CreateStocks.png)
+![CreateStocks](./android/assets/screenshots/CreateStocks2.png)
+![Few Stocks](./android/assets/screenshots/FewStocks.png)
 
 # Getting Started
 
